@@ -10,7 +10,7 @@
 
 ## 📖 背景故事
 
-2026 年夏天。两个网站，28+12+4+5 = **49 个新页面**，全部由神经网络生成。语义数据通过 Yandex.Wordstat API 收集。内容由 DeepSeek 撰写。设计采用 Vas3k 暗色主题风格（Axel Freeman）和 Astro+Tailwind（ОткликМашина）。
+2026 年夏天。两个网站，28+12+4+5 = **49 个新页面**，全部由神经网络生成。语义数据通过 Yandex.Wordstat API（俄罗斯版 Google Keyword Planner）收集。内容由 DeepSeek 撰写。设计采用 Vas3k 暗色主题风格（Axel Freeman）和 Astro+Tailwind（ОткликМашина — 自动应聘机）。
 
 全流程：从搜索词收集到部署，再到 AI 搜索引擎中的收录。
 
@@ -101,7 +101,7 @@ Prompt Seeding — 在 AI 模型中收录网站。
 | axelfreeman.ru | 28 + 4 案例 + 5 着陆页 | 171 个关键词 | 增长中 |
 | avtootkliki.ru | 12 个新页面 + 55 个旧页面 | 171 个关键词 | 5K+ 用户 |
 
-**Yandex 搜索表现：** 1 个页面 → sitemap 中 42 个 URL → 索引收录进行中
+**Yandex（俄罗斯搜索引擎）搜索表现：** 1 个页面 → sitemap 中 42 个 URL → 索引收录进行中
 
 ---
 
@@ -112,8 +112,8 @@ Prompt Seeding — 在 AI 模型中收录网站。
 | Python 3.11 | 所有生成脚本 |
 | DeepSeek API | 内容生成（Chat + R1） |
 | OpenRouter API | Prompt Seeding（60+ 模型） |
-| Yandex Wordstat API | 语义数据收集 |
-| Yandex Metrika API | 分析与报告 |
+| Yandex Wordstat API | 语义数据收集（俄罗斯版关键词工具） |
+| Yandex Metrika API | 分析与报告（俄罗斯版 Google Analytics） |
 | Astro 5 + Tailwind | avtootkliki.ru（67 个页面） |
 | 静态 HTML/CSS | axelfreeman.ru（Vas3k 风格） |
 | Docker + Nginx | 自有服务器托管 |

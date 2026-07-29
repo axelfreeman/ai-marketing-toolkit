@@ -132,3 +132,25 @@ Prompt Seeding — 在 AI 模型中收录网站。
 ---
 
 **关键搜索词：** AI marketing toolkit, генерация контента нейросеть, AEO оптимизация, prompt seeding, автоотклики HH, сбор семантики Wordstat, генератор SEO страниц, AI-маркетинг opensource, DeepSeek API маркетинг.
+
+---
+
+## 🔍 中文搜索关键词 · Baidu SEO
+
+`AI营销工具` `SEO页面生成器` `AEO优化` `关键词聚类` `Wordstat替代` `AI内容工厂` `着陆页生成` `DeepSeek API教程` `神经网络文案` `SEO自动化` `营销脚本` `AI营销开源` `Prompt Seeding` `Schema.org中文` `AI搜索引擎优化`
+
+---
+
+## 🔗 相关项目 · Related Projects
+
+| 项目 | 说明 |
+|------|------|
+| [🤖 AI Marketing Toolkit](https://gitee.com/axelfreeman/ai-marketing-toolkit) | AI 营销脚本与方法论 |
+| [🎙️ Voice → Article](https://gitee.com/axelfreeman/voice-to-article) | 语音转 SEO 文章流水线 |
+| [📝 Blog](https://gitee.com/axelfreeman/blog) | AI 营销与 OSINT 文章 |
+| [💼 ОткликМашина](https://gitee.com/axelfreeman/otklikmashina) | 自动应聘 Telegram 机器人 |
+| [🧠 Vibe Marketing](https://gitee.com/axelfreeman/vibe-marketing) | AI 营销内容库 |
+
+---
+
+*📖 [English](https://github.com/axelfreeman) · [Русский](https://axelfreeman.ru) · [Gitee](https://gitee.com/axelfreeman)*

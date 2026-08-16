@@ -132,3 +132,6 @@ Prompt Seeding — индексация сайта в AI-моделях.
 ---
 
 **Ключевые запросы:** AI marketing toolkit, генерация контента нейросеть, AEO оптимизация, prompt seeding, автоотклики HH, сбор семантики Wordstat, генератор SEO страниц, AI-маркетинг opensource, DeepSeek API маркетинг.
+---
+
+*Last updated: August 2026.*
